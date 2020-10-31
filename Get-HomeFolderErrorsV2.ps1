@@ -123,13 +123,12 @@
 .NOTES
 	NAME: Get-HomeFolderErrorsV2.ps1
 	VERSION: 2.00
-	AUTHOR: Carl Webster, Sr. Solutions Architect for Choice Solutions, LLC
+	AUTHOR: Carl Webster
 	LASTEDIT: May 18, 2017
 #>
 
 
 #Created by Carl Webster, CTP 24-Aug-2016
-#Sr. Solutions Architect for Choice Solutions, LLC
 #webster@carlwebster.com
 #@carlwebster on Twitter
 #http://www.CarlWebster.com
